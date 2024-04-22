@@ -1,0 +1,163 @@
+
+.navbar{
+    background-color: slategray;
+}
+
+.index-pg{
+    background-color: rgba(255, 255, 255, 0.911);
+}
+
+.project_pg{
+    background-color: rgb(255, 255, 255);
+}
+
+.cont1
+{   padding-bottom: 150px;
+
+}
+
+.cont2
+{padding-bottom:40px;}
+
+.cont3
+{padding-top: 30px;}
+
+.nav-item
+{margin:0px 10px 0px 10px;}
+
+.nav-item a
+{
+    font-size: 23px;
+    color: black;
+
+}
+
+.nav-link
+{
+ font-size: 23px;
+ color: black;
+
+}
+
+@media (max-width:767px) {
+    .img1 {
+        max-width: 100%;
+        max-height: 100%;
+    }
+}
+
+@media (min-width:768px) {
+    .img1 {
+        max-width: 60vh;
+        max-height: 80vh;
+    }
+}
+
+@media (min-width:992px) {
+    .img1 {
+        max-width: 70vh;
+        max-height: 70vh;
+    }
+}
+
+@media (min-width:1200px) {
+    .img1 {
+        max-width: 65vh;
+        max-height: 70vh;
+    }
+}
+
+.p1{
+    font-size: 40px;
+    color: black;
+    font-family:sans-serif;
+}
+
+.p2{
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    font-family:sans-serif;
+}
+
+.p2 span{
+    color: rgb(175, 0, 0);
+}
+
+.p5{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: rgb(66, 66, 66);
+    padding-left: 10px;
+}
+
+
+.lang li{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: rgb(66, 66, 66);
+    padding-left: 10px;
+    background-color: rgb(238, 252, 220);
+    max-width: 200px;
+    padding: none;
+    margin: 7px;
+    list-style-type: none;
+}
+
+.p7{
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    font-family:sans-serif;
+    font-weight: 600;
+    margin-bottom: 35px;
+  
+}
+
+.contact-div{
+    background-color: rgb(247, 255, 242);
+}
+
+.contact-div p{
+    font-family: sans-serif;
+    color: rgb(116, 119, 115);
+}
+
+.proj-det{
+    min-height: 100px;
+    min-width:90% ;
+    border-color: rgb(167, 166, 166);
+    border-width: thin;
+    border-style: solid;
+    margin-bottom: 15px;
+}
+
+.input1{
+    height:30px;
+    width:90%;
+    border-color: rgb(75, 74, 74);
+    border-width: thin;
+    border-style: solid;
+    
+}
+
+.btn{
+    background-color: slategray;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.round-brd{
+    border-radius: 2%;
+}
+
+.sec1{
+    background-color: rgb(243, 253, 246);
+}
+
+
+
+.img1{
+    max-width: 100%;
+    width: 100%;
+    height: auto 
+}
+
